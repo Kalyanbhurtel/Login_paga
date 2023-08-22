@@ -1,0 +1,1 @@
+RegExp emailvalidation = RegExp(r"[a-zA-Z0-9]+@gmail.com");
